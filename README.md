@@ -2,7 +2,7 @@
 Undergrad Computer Science student at ASU
 
 
-###Contact Information
+## Contact Information: ##
 
 Contact me:
 Matin@Massoudi.net
