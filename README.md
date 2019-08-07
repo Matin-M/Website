@@ -14,6 +14,6 @@ https://www.linkedin.com/in/matin-massoudi-021474101/
 
 Project Name  | Date
 ------------- | -------------
-OpenCV image Recognition  | Content Cell
-Hivolts  |  Content Cell
-ChatSocket Java  |  a
+OpenCV image Recognition  | 2019
+Hivolts  |  2016
+ChatSocket Java  |  2017
