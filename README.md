@@ -13,12 +13,6 @@ Syntax highlighted code block
 
 
 
-
-
-[Link](github.com/matin-m) and ![Image](src)
-```
-
-
 ### Support or Contact
 
 Contact me:
