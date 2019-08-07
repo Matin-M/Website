@@ -1,7 +1,3 @@
-## www.matinm.com
-
-
-
 # Matin Massoudi
 Undergrad Computer Science student at ASU
 
