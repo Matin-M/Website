@@ -1,13 +1,12 @@
-# Matin Massoudi
-Undergrad Computer Science student at ASU
+# Matin Massoudi #
+Undergrad Computer Science Student at ASU 2018-2022
 
 
 ## Contact Information: ##
 
-Contact me:
 Matin@Massoudi.net
 
-LinkedIn:
+## LinkedIn: ##
 https://www.linkedin.com/in/matin-massoudi-021474101/
 
 ## Projects: ##
